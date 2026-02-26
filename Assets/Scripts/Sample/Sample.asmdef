@@ -1,3 +1,6 @@
 {
-	"name": "Sample"
+    "name": "Sample",
+    "references": [
+        "UniTask"
+    ]
 }
