@@ -10,7 +10,8 @@
       "Bash(mv:*)",
       "Bash(mkdir:*)",
       "Bash(echo:*)",
-      "Bash(Unity:*)"
+      "Bash(Unity:*)",
+      "Bash(gh pr:*)"
     ],
     "deny": [
       "Bash(rm:*)",
