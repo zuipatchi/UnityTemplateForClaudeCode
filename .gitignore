@@ -1,3 +1,6 @@
+# Claude Code local settings
+.claude/settings.local.json
+
 # Unity generated
 [Ll]ibrary/
 [Tt]emp/
